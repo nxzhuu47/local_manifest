@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Remote -->
+ <remote name="nxzscapesorgz47" fetch="https://github.com/nxzscapesorgz47" clone-depth="1" />
+ <remote name="rmx1941" fetch="https://github.com/realme-kernel-opensource" clone-depth="1" />
+
+
+ <!-- Trees -->
+ <project path="device/realme/rmx1941" name="nxzscapesorgz47/device_realme_rmx1941.git" remote="nxzscapesorgz47" revision="BASE_COLOR_OS_RMX1941_A.32" />
+ <project path="vendor/rmx1941" name="nxzscapesorgz47/vendor_realme_RMX1941.git" remote="nxzscapesorgz47" revision="BASE_COLOR_OS_RMX1941_A.32" />
+ <project path="kernel/realme/rmx1941" name="realme-kernel-opensource/realme_C2_AndroidP-kernel-source.git" remote="rmx1941" revision="master" />
+ 
+</manifest
